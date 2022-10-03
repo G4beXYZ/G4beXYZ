@@ -40,7 +40,7 @@
   ![Twitter](https://img.shields.io/twitter/follow/G4be_XYZ?label=Twitter&style=social)
   ![GitHub](https://img.shields.io/github/followers/G4beXYZ?label=GitHub&style=social) <br><br>
   
-  ![Discord](https://img.shields.io/badge/Discord-%E2%88%AB%E2%9D%AF%E2%9D%AD%C9%A24%CA%99%C9%9B%E2%9D%AC%E2%9D%AE%E2%88%AB%239614-lightblue)
+  ![Discord](https://img.shields.io/badge/Discord-G4be%239614-lightgrey)
   
   </h3>
  
