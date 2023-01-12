@@ -13,7 +13,6 @@
     - Data Science
     - Cloud Computing
     - Quantum Computing
-    - AI
   
   </div> 
   <h1 align="center"> ▫◽◻ Languages & Tech ◻◽▫ </h1>
