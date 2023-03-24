@@ -4,8 +4,9 @@
   <h1 align="center"> ▫◽◻ Carreer(?) ◻◽▫ </h1>
   <div align="center">
   👨‍💻 Studying Information Systems
+  
   Working at Base2 Technologies (Automation Test Analyst)
-</div>
+  </div>
   <h1 align="center"> ▫◽◻ My Hobby and Stuff ◻◽▫ </h1>
   <div align="center">🎮I'm a hobbyist Game Developer 🔧  </div>
   <h1 align="center"> ▫◽◻ Skills to Learn ◻◽▫ </h1>
