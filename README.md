@@ -9,10 +9,12 @@
   <div align="center">🌱 I'm always trying to learn something new, but these are my main objectives for now (from top to bottom):
  
     - Extended Reality
+    - Advanced AI
     - Machine Learning
     - Data Science
     - Cloud Computing
     - Quantum Computing
+    
   
   </div> 
   <h1 align="center"> ▫◽◻ Languages & Tech ◻◽▫ </h1>
