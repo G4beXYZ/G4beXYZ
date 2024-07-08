@@ -31,7 +31,7 @@
  
    <h3 align="center">
   
-   ![Windows](https://img.shields.io/badge/Windows-10-blue)
+   ![Windows](https://img.shields.io/badge/Windows-11-blue)
    ![Nvidia](https://img.shields.io/badge/Nvidia-RTX%202080TI-green)
    ![Intel](https://img.shields.io/badge/Intel-I9--9900K-blue)
   
