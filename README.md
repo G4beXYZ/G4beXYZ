@@ -3,7 +3,7 @@
 ---------------------------------------
   <h1 align="center"> ▫◽◻ Carreer(?) ◻◽▫ </h1>
   <div align="center">
-  👨‍💻 Studying Information Systems
+   🎓 Bachelor's degree in Information Systems
   
   Working at Base2 Technologies (Automation Test Analyst)
   </div>
